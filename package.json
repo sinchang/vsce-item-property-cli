@@ -15,11 +15,6 @@
     "lint": "standard",
     "semantic-release": "semantic-release"
   },
-  "standard": {
-    "env": [
-      "jest"
-    ]
-  },
   "author": "sinchang <sinchangwen@gmail.com>",
   "license": "MIT",
   "dependencies": {

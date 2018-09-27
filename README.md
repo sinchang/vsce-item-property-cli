@@ -1,7 +1,7 @@
 
 # vsce-item-property-cli
 
-[![NPM version](https://img.shields.io/npm/v/vsce-item-property-cli.svg?style=flat)](https://npmjs.com/package/vsce-item-property-cli) [![NPM downloads](https://img.shields.io/npm/dm/vsce-item-property-cli.svg?style=flat)](https://npmjs.com/package/vsce-item-property-cli)
+[![NPM version](https://img.shields.io/npm/v/vsce-item-property-cli.svg?style=flat)](https://npmjs.com/package/vsce-item-property-cli) [![NPM downloads](https://img.shields.io/npm/dm/vsce-item-property-cli.svg?style=flat)](https://npmjs.com/package/vsce-item-property-cli) [![Build Status](https://travis-ci.org/sinchang/vsce-item-property-cli.svg?branch=master)](https://travis-ci.org/sinchang/vsce-item-property-cli)
 
 ## Install
 
