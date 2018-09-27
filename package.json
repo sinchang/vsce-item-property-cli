@@ -1,0 +1,34 @@
+{
+  "name": "vsce-item-property-cli",
+  "version": "0.0.0",
+  "description": "Get vsce meta information cli tool",
+  "repository": {
+    "url": "sinchang/vsce-item-property-cli",
+    "type": "git"
+  },
+  "main": "cli.js",
+  "bin": "cli.js",
+  "files": [
+    "cli.js"
+  ],
+  "scripts": {
+    "lint": "standard",
+    "semantic-release": "semantic-release"
+  },
+  "standard": {
+    "env": [
+      "jest"
+    ]
+  },
+  "author": "sinchang <sinchangwen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cac": "^4.0.0",
+    "prettyjson": "^1.2.1",
+    "vsce-item-property": "^1.2.0"
+  },
+  "devDependencies": {
+    "semantic-release": "^15.9.16",
+    "standard": "^10.0.0"
+  }
+}
