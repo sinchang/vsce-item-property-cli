@@ -4,6 +4,10 @@
 const cac = require('cac')
 const vsceItemProperty = require('vsce-item-property')
 const prettyjson = require('prettyjson')
+const updateNotifier = require('update-notifier')
+const pkg = require('./package.json')
+
+updateNotifier({ pkg }).notify()
 
 const cli = cac()
 
