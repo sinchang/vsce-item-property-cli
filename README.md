@@ -15,6 +15,10 @@ npm i vsce-item-property-cli -g
 vsce-item-property-cli vscodevim.vim
 ```
 
+## Related
+
+- [vsce-item-property](https://github.com/sinchang/vsce-item-property)
+
 ## Contributing
 
 1. Fork it!
