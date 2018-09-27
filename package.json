@@ -18,7 +18,7 @@
   "author": "sinchang <sinchangwen@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "cac": "^4.0.0",
+    "cac": "^4.4.4",
     "prettyjson": "^1.2.1",
     "vsce-item-property": "^1.2.0"
   },
